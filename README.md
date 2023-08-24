@@ -25,14 +25,14 @@ An awesome list of resources for understanding the economics of rollups.
 ### Videos
 - [Introduction to Cryptoeconomics - Vitalik Buterin](https://www.youtube.com/watch?v=pKqdjaH1dRo)
 - [Cryptoeconomics In 30 Minutes by Vitalik Buterin](https://www.youtube.com/watch?v=GQR1xjQn5Pg&t=539s)
-- [What is cryptoeconomics](https://youtu.be/u6VSPD5TrP4?t=369) by Vlad Zamfir
+- [What is cryptoeconomics by Vlad Zamfir](https://youtu.be/u6VSPD5TrP4?t=369)
 - [Hard problems in cryptoeconomics](https://www.youtube.com/watch?v=p5qwbOkCZSc&t=2316s)
 - [Programmable Incentives: Intro to Cryptoeconomics](https://www.youtube.com/watch?v=-alrVUv6E24&pp=ygUPY3J5cHRvZWNvbm9taWNz)
 - [Cryptoeconomics.study](https://https://www.youtube.com/@cryptoeconomicsstudy1565/videos)
 - [DevCon 6 - Cryptoeconomics Track](https://www.youtube.com/playlist?list=PLaM7G4Llrb7yylkSKf5Au_ZnxSnk7y_Vu)
   
 ## ZK Rollups
-- L2beat 
+- [L2beat](https://l2beat.com/scaling/summary) 
 - [Awesome Zero Knowledge](https://github.com/ventali/awesome-zk)
 - [Optimistic vs. ZK Rollup: Deep Dive](https://blog.matter-labs.io/optimistic-vs-zk-rollup-deep-dive-ea141e71e075)
 - [Optimistic and Validity Rollups: Analysis and Comparison between Optimism and StarkNet](https://arxiv.org/abs/2210.16610)
