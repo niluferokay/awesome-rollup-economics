@@ -1,19 +1,34 @@
 # awesome-rollup-economics
 An awesome list of resources for understanding the economics of rollups.
 
-- [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)
-- [Why rollups + data shards are the only sustainable solution for high scalability](https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48)
- 
+## Rollup Roadmap
+- [Layer 1 Should Be Innovative in the Short Term but Less in the Long Term](https://vitalik.ca/general/2018/08/26/layer_1.html) by Vitalik (Aug, 2018)
+- [The Dawn of Hybrid Layer 2 Protocols](https://vitalik.ca/general/2019/08/28/hybrid_layer_2.html) by Vitalik (Aug, 2019)
+- [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698) by Vitalik (Oct, 2020)
+- [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html) by Vitalik (Jan, 2021)
+- [Why rollups + data shards are the only sustainable solution for high scalability](https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48) by Polynya (Sept, 2021)
+- [Rollup-centric ethereum with sharding or rollup-centric sharding?](https://ethereum-magicians.org/t/rollup-centric-ethereum-with-sharding-or-rollup-centric-sharding/7159) by Samueldashadrach (Sept, 2021)
+- [Endgame](https://vitalik.ca/general/2021/12/06/endgame.html) by Vitalik (Dec, 2021) / [Video](https://www.youtube.com/watch?v=b1m_PTVxD-s)
+- [The different types of ZK-EVMs](https://vitalik.ca/general/2022/08/04/zkevm.html) by Vitalik (Aug, 2022)
+- [What kind of layer 3s make sense?](https://vitalik.ca/general/2022/09/17/layer_3.html) by Vitalik (Sept, 2022)
+- [A step-by-step roadmap for scaling rollups with calldata expansion and sharding](https://notes.ethereum.org/@vbuterin/data_sharding_roadmap) by Vitalik (Sept, 2022)
+  
 ## Rollup Economics
-- [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
-- [The Complete Guide to Rollups](https://members.delphidigital.io/reports/the-complete-guide-to-rollups)
-- [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)
-- [Understanding rollup economics from first principles](https://barnabe.substack.com/p/understanding-rollup-economics-from)
-- [A normie's guide to rollups](https://www.preethikasireddy.com/post/a-normies-guide-to-rollups)
-- [The economics of rollup fees](https://www.alexbeckett.xyz/the-economics-for-rollup-fees/)
-- [How rollup fees work](https://polynya.medium.com/how-rollup-fees-work-ddaa34f64c08)
-- [Zero-Knowledge Proof Pricing](https://www.youtube.com/watch?v=G7UllXTcjm4)
+- [SoK: Validating Bridges as a Scaling Solution for Blockchains](https://eprint.iacr.org/2021/1589.pdf) by Patrick McCorry, Chris Buckland, Bennet Yee, Dawn Song (2021)
+- [Ethereum Rollup Call Data Pricing Analysis](https://forum.celestia.org/t/ethereum-rollup-call-data-pricing-analysis/141) by adeets_22 (Jan, 2022)
+- [Understanding rollup economics from first principles](https://barnabe.substack.com/p/understanding-rollup-economics-from) by Barnabé Monnot (Feb, 2022)
+- [The economics of rollup fees](https://www.alexbeckett.xyz/the-economics-for-rollup-fees/) by Alex Beckett (May, 2022)
+- [The Complete Guide to Rollups](https://members.delphidigital.io/reports/the-complete-guide-to-rollups) by Jon Charbonneau (Aug, 2022)
+- [ROP-3: Rollup economics framework](https://www.notion.so/561d6340ad174195a335af6cc4e66bb7?pvs=21) by Barnabé Monnot and Davide Crapis (Oct, 2022)
+- [Rollups are Real — Rollup Economics 2.0](https://www.notion.so/2516079f62a745b598133a101ba5a3de?pvs=21) by Davide Crapis (Aug, 2023)
+- [Incentive Schemes for Rollup Validators](https://arxiv.org/pdf/2308.02880.pdf) by Akaki Mamageishvili and Edward W. Felten (Aug, 2023)
 
+## Zero-Knowledge-Proofs
+- [Zero-Knowledge Proof Pricing](https://www.youtube.com/watch?v=G7UllXTcjm4) by Tarun Chitra and Georgios Konstantopoulos (March, 2020)
+- [Awesome zero knowledge proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) by Matter Labs
+- [Awesome Zero Knowledge](https://github.com/ventali/awesome-zk) by Ventali Tan
+- [Awesome ZKPs](https://github.com/sCrypt-Inc/awesome-zero-knowledge-proofs) by sCrypt-Inc
+  
 ## Cryptoeconomics
 - [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) 
 - [The Blockchain Economy: A beginner’s guide to institutional cryptoeconomics ](https://medium.com/cryptoeconomics-australia/the-blockchain-economy-a-beginners-guide-to-institutional-cryptoeconomics-64bf2f2beec4)
